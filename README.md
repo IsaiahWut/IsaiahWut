@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Isaiah, and I enjoy creating useful and functional projects that interest me!
+
 <!--
 **IsaiahWut/IsaiahWut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
