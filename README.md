@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><br>Hi there 👋 I'm Isaiah<br><br>I'm a passionate full-stack developer studying Robotics at the University of California, Riverside, who loves building impactful, user-centered applications. I enjoy working with modern web technologies like React, Next.js, and AI tools like Gemini. Whether it's organizing tasks or improving user experience, I aim to create meaningful projects that both help others and challenge me to grow.<br><br>🚀 Currently exploring: full-stack app development, AI integration, and ethical tech.<br>
+<br>Hi there 👋 I'm Isaiah<br><br>I'm a passionate full-stack developer studying Robotics at the University of California, Riverside, who loves building impactful, user-centered applications. I enjoy working with modern web technologies like React, Next.js, and AI tools like Gemini. Whether it's organizing tasks or improving user experience, I aim to create meaningful projects that both help others and challenge me to grow.<br><br>🚀 Currently exploring: full-stack app development, AI integration, and ethical tech.<br>
 
 
 ## 🌐 Socials:
