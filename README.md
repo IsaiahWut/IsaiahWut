@@ -1,5 +1,13 @@
 # 💫 About Me:
-<br>Hi there 👋 I'm Isaiah<br><br>I'm a passionate full-stack developer studying Robotics at the University of California, Riverside, who loves building impactful, user-centered applications. I enjoy working with modern web technologies like React, Next.js, and AI tools like Gemini. Whether it's organizing tasks or improving user experience, I aim to create meaningful projects that both help others and challenge me to grow.<br><br>🚀 Currently exploring: Robotics, Mechatronics, and medical tech.<br>
+Hello, I'm Isaiah
+
+I'm a Robotics student at the University of California, Riverside, with a strong passion for developing technologies that improve healthcare and quality of life. My interests lie at the intersection of medical technology, robotics, mechatronics, and intelligent systems, where engineering can create meaningful real-world impact.
+
+I enjoy designing and building solutions that combine hardware, software, and AI, from healthcare-focused applications and medical imaging tools to robotic systems and assistive technologies. My goal is to contribute to innovations that make healthcare more accessible, efficient, and effective.
+
+Beyond engineering, I'm constantly exploring new technologies and challenging myself through hands-on projects that strengthen my skills in software development, system design, and emerging healthcare technologies.
+
+Currently exploring: Medical Technology, Healthcare Robotics, Mechatronics, AI Applications in Healthcare, and Human-Centered Engineering.
 
 
 ## 🌐 Socials:
